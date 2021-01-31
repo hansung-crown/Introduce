@@ -63,4 +63,4 @@
 ## Other application example
 - 전자 출결 시스템
 
-<img src="https://user-images.githubusercontent.com/56067179/106384633-3a47c080-640f-11eb-8c3c-d0d79b7cae32.gif" width="600" >
+  <img src="https://user-images.githubusercontent.com/56067179/106384633-3a47c080-640f-11eb-8c3c-d0d79b7cae32.gif" width="600" >
